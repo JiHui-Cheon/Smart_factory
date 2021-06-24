@@ -1,2 +1,5 @@
 /results
 /dataset
+/data
+/tfrecords
+/model
